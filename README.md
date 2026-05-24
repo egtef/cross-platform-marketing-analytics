@@ -8,3 +8,5 @@ The objective was to standardize marketing KPIs across platforms, evaluate campa
 - Looker Studio
 - Data Visualization
 - Marketing Analytics
+
+## Business Questions Answered
