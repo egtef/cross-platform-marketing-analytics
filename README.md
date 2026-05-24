@@ -38,15 +38,17 @@ Created a unified BigQuery view using UNION ALL to standardize:
 while preserving platform-specific engagement metrics.
 
 ### 3. Analytical Views
-Developed reusable SQL views to answer business questions:
+Developed reusable SQL views to answer business questions using my domain expertise:
 - Platform performance
 - Campaign efficiency
 - Trend analysis
 - Engagement analysis
 
 ### 4. Dashboard Development
-Built interactive dashboards in Looker Studio to visualize:
-- Platform comparisons
-- Campaign rankings
-- Performance trends
-- Engagement insights
+Built interactive dashboards in Looker Studio to visualize the results and present them
+
+## Key Insights
+- TikTok generated the highest conversion volume, but at a higher CPA.
+- Facebook demonstrated the most cost-efficient acquisition performance.
+- Google campaigns (Search Brand Terms & shopping) have consistent performance in respect to CTR and quality score.
+- Generally, TikTok is good for exposure and video views. Engagement metrics varied significantly across platforms, requiring platform-specific analysis.
