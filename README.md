@@ -10,3 +10,9 @@ The objective was to standardize marketing KPIs across platforms, evaluate campa
 - Marketing Analytics
 
 ## Business Questions Answered
+- What are the total conversions over the entire month?
+- Which platform generated the highest conversions?
+- Which campaigns had the best Conversions?
+- Which campaigns underperformed relative to spend?
+- How google ads campaign perform?
+- Where should we invest more in videos?
