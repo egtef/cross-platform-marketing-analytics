@@ -52,3 +52,5 @@ Built interactive dashboards in Looker Studio to visualize the results and prese
 - Facebook demonstrated the most cost-efficient acquisition performance.
 - Google campaigns (Search Brand Terms & shopping) have consistent performance in respect to CTR and quality score.
 - Generally, TikTok is good for exposure and video views. Engagement metrics varied significantly across platforms, requiring platform-specific analysis.
+
+![Dashboard Overview](insights/dashboardview.png)
